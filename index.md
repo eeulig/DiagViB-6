@@ -2,7 +2,10 @@
 
 Common deep neural networks (DNNs) for image classification have been shown to rely on shortcut opportunities (SO) in the form of predictive and easy-to-represent visual factors. This is known as shortcut learning and leads to impaired generalization. In this work, we show that common DNNs also suffer from shortcut learning when predicting only basic visual object factors of variation (FoV) such as shape, color, or texture. Here, we introduce the Diagnostic Vision Benchmark suite *DiagViB-6*, which includes datasets and metrics to study a network’s shortcut vulnerability and generalization capability for six independent FoV. In particular, *DiagViB-6* allows controlling the type and degree of SO and GO in a dataset.
 
-![intro figure](files/intro_fig.png)
+<video controls width="500">
+  <source src="https://0633e92166c0a27ea1aa-ab47878a9e45eb9e2f15be38a59f867e.ssl.cf1.rackcdn.com/YNCRXITS-1852043-1462454-Upload-1633340268.mp4"
+          type="video/mp4">
+</video>
 
 For more information about this work, please read our [ICCV 2021 paper](https://arxiv.org/abs/2108.05779):
 
